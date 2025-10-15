@@ -8,7 +8,7 @@ body{
 
 .main{
     display:flex;
-    height:100vh;
+    height:100 vh;
 }
 
 .icon-hover:hover{
@@ -431,4 +431,5 @@ a{
     text-decoration:none;
     color:white;
 }
+
 /* ------------ */
